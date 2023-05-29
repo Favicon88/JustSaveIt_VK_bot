@@ -28,6 +28,6 @@ apihelper.API_URL = "http://localhost:4200/bot{0}/{1}"
 команды для сервера
 
 ```
-systemctl status justsavit-vk-bot.service
-systemctl restart justsavit-vk-bot.service
+systemctl status justsavit-vk-bot
+systemctl restart justsavit-vk-bot
 ```
